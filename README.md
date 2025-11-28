@@ -12,3 +12,7 @@ This project simulates a real-world enterprise environment by integrating multip
 We will build this environment using VMware to host all virtual machines, each representing critical pieces of an enterprise network. Every system will be configured with static IP addresses, ensuring reliable communication across the lab. This mirrors a real-world setup where servers, firewalls, and endpoints are tied together under a structured network topology.
 
 #
+
+## 🔗 Active Directory & Identity Management
+- **[Active Directory: Centralized Identity and Access Management](https://github.com/SAYOOLA591/Active-Directory/)**
+  - Configured on Windows Server 2022 with AD, and deployed Microsoft Baseline Audit GPO with advanced audit policy recommendation, provisioning users into their respective Organisational Units (OUs) and connected endpoints to the Active Directory domain.
