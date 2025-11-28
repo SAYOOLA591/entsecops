@@ -16,3 +16,17 @@ We will build this environment using VMware to host all virtual machines, each r
 ## 🔗 Active Directory & Identity Management
 - **[Active Directory: Centralized Identity and Access Management](https://github.com/SAYOOLA591/Active-Directory/)**
   - Configured on Windows Server 2022 with AD, and deployed Microsoft Baseline Audit GPO with advanced audit policy recommendation, provisioning users into their respective Organisational Units (OUs) and connected endpoints to the Active Directory domain.
+
+## 🔗 Network Security & Monitoring Deployment
+- **[pfSense Firewall / Router](https://github.com/SAYOOLA591/pfsense/)**
+  - Configured firewall and squid proxy simultaneously to act as the first line of defense, and squid proxy for monitoring HTTP/HTTPS requests and enabling content filtering.
+- **[Zeek & Suricata: IDS/IPS](https://github.com/SAYOOLA591/zeek-suricata/)**
+  - Deployed Zeek & Suricata to monitor the incoming TLS traffic fingerprint, enabling community rulesets, and a custom sliver C2 post-exploitation capabilities.
+ 
+## 🔗 Splunk Configuration & Deployment
+- **[SIEM Platform](https://github.com/SAYOOLA591/splunk-siem/)**
+  - Deployed and Configured for threat hunting, network security monitoring, and comprehensive log management.
+ 
+## 🔗 Attack Simulation & Telementry Management
+- **[Kali And AtomicRedTeam Simulation](https://github.com/SAYOOLA591/telemetry-lab/)**
+  - Simulated diverse attacks, essentially to generate different telemetry to enrich the lab.
