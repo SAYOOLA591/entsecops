@@ -1,6 +1,6 @@
 # SOC Portfolio Project
 
-The primary goal of this lab is to simulate a real-world security operations environment, providing hands-on experience in cybersecurity. The main objectives are to understand the flow of attacks, implement proper logging and monitoring, and practice responding to various threats.
+The primary goal of this lab is to simulate a real-world security operations environment and provide hands-on cybersecurity experience. The main objectives are to understand the flow of attacks, implement proper logging and monitoring, and practice responding to various threats.
 
 ## 🔗 Infrastructure Architectural Diagram
 
@@ -9,7 +9,7 @@ The primary goal of this lab is to simulate a real-world security operations env
 ## 🔗 Foundation: Lab Setup & Networking
 
 This project simulates a real-world enterprise environment by integrating multiple security and infrastructure components into a single detection lab. The goal is to replicate how organisations deploy, monitor, and defend their networks, creating a hands-on environment for both learning and detection engineering.
-We will build this environment using VMware to host all virtual machines, each representing critical pieces of an enterprise network. Every system will be configured with static IP addresses, ensuring reliable communication across the lab. This mirrors a real-world setup where servers, firewalls, and endpoints are tied together under a structured network topology.
+We will build this environment using VMware to host all virtual machines, each representing critical pieces of an enterprise network. Every system will be configured with static IP addresses, ensuring reliable communication across the lab. This mirrors a real-world setup in which servers, firewalls, and endpoints are tied together within a structured network topology.
 
 #
 
