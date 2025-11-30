@@ -4,7 +4,7 @@ The primary goal of this lab is to simulate a real-world security operations env
 
 ## 🔗 Infrastructure Architectural Diagram
 
-![architect1](https://raw.githubusercontent.com/SAYOOLA591/entsecops/blob/main/Screenshot%202025-09-18%20112930.png)
+![architect1](https://github.com/user-attachments/assets/9f1abc56-e7f1-41ae-84e5-5cf6bba5016b)
 
 ## 🔗 Foundation: Lab Setup & Networking
 
